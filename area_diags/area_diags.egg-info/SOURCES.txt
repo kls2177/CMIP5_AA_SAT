@@ -1,0 +1,7 @@
+setup.py
+area_diags/__init__.py
+area_diags/area_avg.py
+area_diags.egg-info/PKG-INFO
+area_diags.egg-info/SOURCES.txt
+area_diags.egg-info/dependency_links.txt
+area_diags.egg-info/top_level.txt
